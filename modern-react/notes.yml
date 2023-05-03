@@ -1,0 +1,18 @@
+Recommended for SPAs(Single-Page Application) And MPAs(Multi-Page Application):
+  - Optimize Code
+  - Use Next-gen JS Feature(>ES6 || ES5)
+  - Be More Productive
+  - Use Dependecy Management
+  - Use Bundler (Webpack Recommnded): Need to write modular code then budle and ship-it.
+  - Use Compliler (next-Gen JS, Babel + Presets)
+  - Use a Development Server
+
+Prerequisite:
+  - node
+
+Installation-Guid:
+  - install nodeJS
+  - npm install create-react-app -g
+  - create-react-app <AppName>
+  - cd <AppName>
+  - npm start
