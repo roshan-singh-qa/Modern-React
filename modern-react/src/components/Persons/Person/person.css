@@ -40,14 +40,6 @@ input {
   background-color: grey;
 }
 
-.red {
-  color: red;
-}
-
-.bold {
-  font-weight: bold;
-}
-
 @media (max-width: 200px) {
   .person {
     /* width: 450px; */
